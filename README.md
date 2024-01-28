@@ -6,7 +6,6 @@ I like putting data to tables/dataframes🤩 and getting a pleasure to predict s
 * Data preprocessing;
 * Statisctics;
 * Machine learning(ML)🤖: classification and regression;
-* Computer Vision;
 
 ### Languages and Tools🧐:
 - Python, SQL;
